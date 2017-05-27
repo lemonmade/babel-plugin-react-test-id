@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`babelPluginReactTestID() preserves other props 1`] = `"const foo = <Foo test=\\"bar\\" />;"`;
+
+exports[`babelPluginReactTestID() props does not remove testID if custom names are provided 1`] = `"const foo = <Foo testID=\\"bar\\" />;"`;
+
+exports[`babelPluginReactTestID() props removes custom prop names 1`] = `"const foo = <Foo />;"`;
+
+exports[`babelPluginReactTestID() removes a testID prop 1`] = `"const foo = <Foo />;"`;
+
+exports[`babelPluginReactTestID() removes a testID prop 2`] = `"const foo = <Foo />;"`;
