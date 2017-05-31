@@ -1,5 +1,6 @@
 {
   "name": "babel-plugin-react-test-id",
+  "description": "Babel plugin for dealing with test ID props in your components",
   "version": "0.1.0",
   "main": "lib/index.js",
   "author": "Chris Sauve <chrismsauve@gmail.com>",
